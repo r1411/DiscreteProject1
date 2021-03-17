@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: me.r1411.discreteiz1.Main
+
